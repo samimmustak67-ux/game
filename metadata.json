@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Call of Battle: Anime Edition",
+  "description": "2D side-scrolling anime shooter inspired by Mini Militia featuring jetpack combat, 8 anime characters, weapons, particle effects, offline bots, real-time multiplayer WebSocket server, and complete Kotlin Android client codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
